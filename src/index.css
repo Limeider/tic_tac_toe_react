@@ -214,6 +214,7 @@ ol {
   font-size: 2rem;
   text-align: center;
   color: #e1dec7;
+  text-transform: capitalize;
 }
 
 #game-over button {
